@@ -1,17 +1,17 @@
-# Simple Todo App
+# Simply Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This app ~simply~ tracks the progress of your to-do list. 
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+The user can add, check off, and then delete their to-do items. Each item will have that task along with an option due date.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+This app is built on HTML, CSS, and JS. To allow for mobile use, critical for a to-do list, it also features responsive design. Newly updated, the JS is formatted in modules.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-[Link](https://alexdarby135.github.io/se_project_todo-app/)
+[Check it out!](https://alexdarby135.github.io/se_project_todo-app/)
